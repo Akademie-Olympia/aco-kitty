@@ -30,6 +30,7 @@ A clean, GPU-accelerated **Kitty** terminal configuration styled in the official
 :maxdepth: 2
 :caption: User Guide
 
+design
 installation
 packages
 configuration
