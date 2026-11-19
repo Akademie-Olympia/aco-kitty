@@ -1,7 +1,7 @@
 # Arch package and automatic updates
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/MichaelWeissDEV/dotfiles/main/install.sh | bash -s -- kitty
+curl -fsSL https://raw.githubusercontent.com/Akademie-Olympia/aco-dotfiles/main/install.sh | bash -s -- kitty
 ```
 
 This installs the signed `arch-dotfiles-kitty` package with Kitty, Zsh and fonts,

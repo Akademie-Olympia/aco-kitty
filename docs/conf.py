@@ -42,7 +42,7 @@ myst_heading_anchors = 3
 html_theme = "furo"
 html_title = "kitty-config docs"
 html_theme_options = {
-    "source_repository": "https://github.com/MichaelWeissDEV/kitty-config",
+    "source_repository": "https://github.com/Akademie-Olympia/aco-kitty",
     "source_branch": "main",
     "source_directory": "docs/",
     "light_css_variables": {

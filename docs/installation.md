@@ -51,7 +51,7 @@ Clone the repository directly into your XDG configuration directory:
 [ -d ~/.config/kitty ] && mv ~/.config/kitty ~/.config/kitty.bak
 
 # Clone kitty-config
-git clone https://github.com/MichaelWeissDEV/kitty-config.git ~/.config/kitty
+git clone https://github.com/Akademie-Olympia/aco-kitty.git ~/.config/kitty
 ```
 
 ### Route B: Inside the Arch Dotfiles Hub
