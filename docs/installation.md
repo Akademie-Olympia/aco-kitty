@@ -54,9 +54,9 @@ Clone the repository directly into your XDG configuration directory:
 git clone https://github.com/Akademie-Olympia/aco-kitty.git ~/.config/kitty
 ```
 
-### Route B: Inside the Arch Dotfiles Hub
+### Route B: Inside the ACO Arch Dotfiles Hub
 
-Kitty is distributed as the independent `arch-dotfiles-kitty` package.
+Kitty is distributed as the independent `aco-arch-dotfiles-kitty` package.
 See {doc}`packages` for installation and signed `pacman -Syu` updates.
 
 ---
@@ -78,6 +78,6 @@ Verify visual characteristics:
 
 ## Rollback & Uninstall
 
-For packages, deactivate with `arch-dotfiles-config deactivate kitty` before
+For packages, deactivate with `aco-arch-dotfiles-config deactivate kitty` before
 removal; see {doc}`packages`. For a standalone clone, review and move it aside
 before restoring your own backup. Do not delete personal configuration blindly.

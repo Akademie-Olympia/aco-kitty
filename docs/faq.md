@@ -80,7 +80,7 @@ Kitty supports the **OSC 52** ANSI escape sequence for clipboard synchronization
 kitty +kitten ssh user@remote-host
 ```
 
-In `tmux` running over SSH, ensure `set -s set-clipboard on` is enabled (already configured in our [tmux-config](https://tmux-config.readthedocs.io/en/latest/)).
+In `tmux` running over SSH, ensure `set -s set-clipboard on` is enabled (already configured in our [tmux-config](https://aco-tmux.readthedocs.io/en/latest/)).
 
 ---
 

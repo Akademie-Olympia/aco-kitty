@@ -1,13 +1,15 @@
 # Package-local recipe. Stage checksummed sources with packaging/arch/build.sh.
-pkgname=arch-dotfiles-kitty
+pkgname=aco-arch-dotfiles-kitty
 pkgver=0.3.0
 pkgrel=1
 pkgdesc='Kitty terminal configuration'
 arch=('any')
-url='https://github.com/Akademie-Olympia/aco-dotfiles'
+url='https://github.com/Akademie-Olympia/aco-arch-dotfiles'
 license=('LicenseRef-arch-dotfiles-bundle')
-depends=('arch-dotfiles-core>=0.3.0' 'kitty>=0.28' 'zsh' 'ttf-jetbrains-mono-nerd')
+depends=('aco-arch-dotfiles-core>=0.3.0' 'kitty>=0.28' 'zsh' 'ttf-jetbrains-mono-nerd')
 optdepends=()
+replaces=('arch-dotfiles-kitty')
+conflicts=('arch-dotfiles-kitty')
 options=('!strip')
 source=('payload.tar.gz')
 sha256sums=('__SOURCE_SHA256__')

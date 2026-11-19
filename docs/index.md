@@ -1,7 +1,7 @@
 # kitty-config
 
-[![Docs](https://readthedocs.org/projects/kitty-config/badge/?version=latest)](https://kitty-config.readthedocs.io/en/latest/)
-[![Dotfiles Hub](https://img.shields.io/badge/ecosystem-arch--dotfiles-1793D1?logo=arch-linux&logoColor=white)](https://arch-dotfiles.readthedocs.io/en/latest/)
+[![Docs](https://readthedocs.org/projects/aco-kitty/badge/?version=latest)](https://aco-kitty.readthedocs.io/en/latest/)
+[![Dotfiles Hub](https://img.shields.io/badge/ecosystem-arch--dotfiles-1793D1?logo=arch-linux&logoColor=white)](https://aco-arch-dotfiles.readthedocs.io/en/latest/)
 [![Theme: Catppuccin Mocha](https://img.shields.io/badge/theme-Catppuccin%20Mocha-cba6f7)](https://github.com/catppuccin/catppuccin)
 [![Platform: Linux | macOS](https://img.shields.io/badge/platform-Arch%20Linux%20%7C%20Linux%20%7C%20macOS-89b4fa)](https://sw.kovidgoyal.net/kitty/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Akademie-Olympia/aco-kitty/blob/main/LICENSE)
@@ -9,7 +9,7 @@
 A clean, GPU-accelerated **Kitty** terminal configuration styled in the official **Catppuccin Mocha** palette with balanced transparency, JetBrainsMono Nerd Font typography, and Powerline tab styling.
 
 :::{note}
-**Part of the Arch Dotfiles Ecosystem**: Built for **Arch Linux** as part of [`arch-dotfiles`](https://arch-dotfiles.readthedocs.io/en/latest/), this Kitty configuration provides instant rendering, zero audio bells, and a distraction-free terminal workflow that anyone can install on Arch Linux or adapt to **any Linux distribution or macOS**.
+**Part of the ACO Arch Dotfiles Ecosystem**: Built for **Arch Linux** as part of [`aco-arch-dotfiles`](https://aco-arch-dotfiles.readthedocs.io/en/latest/), this Kitty configuration provides instant rendering, zero audio bells, and a distraction-free terminal workflow that anyone can install on Arch Linux or adapt to **any Linux distribution or macOS**.
 :::
 
 ---
@@ -41,11 +41,11 @@ faq
 :caption: Related documentation
 :hidden:
 
-Arch Dotfiles (main hub) <https://arch-dotfiles.readthedocs.io/en/latest/>
-Neovim (nvim-config) <https://nvim-config.readthedocs.io/en/latest/>
-tmux (tmux-config) <https://tmux-config.readthedocs.io/en/latest/>
-Ghostty (ghostty-config) <https://ghostty-config.readthedocs.io/en/latest/>
-Vim (vim-config) <https://vim-config.readthedocs.io/en/latest/>
+ACO Arch Dotfiles (main hub) <https://aco-arch-dotfiles.readthedocs.io/en/latest/>
+Neovim (nvim-config) <https://aco-nvim.readthedocs.io/en/latest/>
+tmux (tmux-config) <https://aco-tmux.readthedocs.io/en/latest/>
+Ghostty (ghostty-config) <https://aco-ghostty.readthedocs.io/en/latest/>
+Vim (vim-config) <https://aco-vim.readthedocs.io/en/latest/>
 ```
 
 ---
@@ -68,8 +68,8 @@ This repository is independent, not embedded in a parent subtree. See
 
 ## Connected Dotfiles Ecosystem
 
-- **[Arch Dotfiles Hub (`arch-dotfiles`)](https://arch-dotfiles.readthedocs.io/en/latest/)**: Central repository uniting the Arch Linux + Hyprland desktop, window manager, and shell environments.
-- **[ghostty-config](https://ghostty-config.readthedocs.io/en/latest/)**: Alternative GPU terminal sharing identical opacity and styling.
-- **[nvim-config](https://nvim-config.readthedocs.io/en/latest/)**: Reproducible, offline-capable Neovim IDE with matching Catppuccin themes.
-- **[tmux-config](https://tmux-config.readthedocs.io/en/latest/)**: Portable terminal multiplexer configured for seamless terminal integration.
-- **[vim-config](https://vim-config.readthedocs.io/en/latest/)**: Zero-plugin standalone Vim configuration.
+- **[ACO Arch Dotfiles Hub (`aco-arch-dotfiles`)](https://aco-arch-dotfiles.readthedocs.io/en/latest/)**: Central repository uniting the Arch Linux + Hyprland desktop, window manager, and shell environments.
+- **[ghostty-config](https://aco-ghostty.readthedocs.io/en/latest/)**: Alternative GPU terminal sharing identical opacity and styling.
+- **[nvim-config](https://aco-nvim.readthedocs.io/en/latest/)**: Reproducible, offline-capable Neovim IDE with matching Catppuccin themes.
+- **[tmux-config](https://aco-tmux.readthedocs.io/en/latest/)**: Portable terminal multiplexer configured for seamless terminal integration.
+- **[vim-config](https://aco-vim.readthedocs.io/en/latest/)**: Zero-plugin standalone Vim configuration.
