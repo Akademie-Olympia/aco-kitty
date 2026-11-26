@@ -6,7 +6,7 @@ pkgdesc='Kitty terminal configuration'
 arch=('any')
 url='https://github.com/Akademie-Olympia/aco-arch-dotfiles'
 license=('LicenseRef-arch-dotfiles-bundle')
-depends=('aco-arch-dotfiles-core>=0.3.0' 'kitty>=0.28' 'zsh' 'ttf-jetbrains-mono-nerd')
+depends=('aco-arch-dotfiles-core>=0.3.0' 'aco-arch-dotfiles-aco-theme' 'kitty>=0.28' 'zsh' 'ttf-jetbrains-mono-nerd')
 optdepends=()
 replaces=('arch-dotfiles-kitty')
 conflicts=('arch-dotfiles-kitty')
