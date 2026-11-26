@@ -30,7 +30,7 @@ color10 {{green}}
 color3  {{yellow}}
 color11 {{orange}}
 color4  {{blue}}
-color12 {{blue}}
+color12 {{accent}}
 color5  {{purple}}
 color13 {{pink}}
 color6  {{cyan}}
