@@ -1,6 +1,6 @@
 # Kitty configuration
 
-GPU terminal with Catppuccin Mocha, powerline tabs and Zsh.
+GPU terminal themed by aco-theme, ligature-free JetBrainsMonoNL and Zsh.
 
 **[Full documentation](https://aco-kitty.readthedocs.io/en/latest/)** ·
 [Arch package](https://aco-kitty.readthedocs.io/en/latest/packages/) ·

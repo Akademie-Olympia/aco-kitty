@@ -2,11 +2,11 @@
 
 [![Docs](https://readthedocs.org/projects/aco-kitty/badge/?version=latest)](https://aco-kitty.readthedocs.io/en/latest/)
 [![Dotfiles Hub](https://img.shields.io/badge/ecosystem-arch--dotfiles-1793D1?logo=arch-linux&logoColor=white)](https://aco-arch-dotfiles.readthedocs.io/en/latest/)
-[![Theme: Catppuccin Mocha](https://img.shields.io/badge/theme-Catppuccin%20Mocha-cba6f7)](https://github.com/catppuccin/catppuccin)
+[![Theme: aco-theme](https://img.shields.io/badge/theme-aco--theme-5b9cf6)](https://github.com/Akademie-Olympia/aco-theme)
 [![Platform: Linux | macOS](https://img.shields.io/badge/platform-Arch%20Linux%20%7C%20Linux%20%7C%20macOS-89b4fa)](https://sw.kovidgoyal.net/kitty/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Akademie-Olympia/aco-kitty/blob/main/LICENSE)
 
-A clean, GPU-accelerated **Kitty** terminal configuration styled in the official **Catppuccin Mocha** palette with balanced transparency, JetBrainsMono Nerd Font typography, and Powerline tab styling.
+A clean, GPU-accelerated **Kitty** terminal configuration styled by the shared **aco-theme** (light/dark, accent, transparency) with balanced transparency, ligature-free JetBrainsMonoNL Nerd Font typography, and Powerline tab styling.
 
 :::{note}
 **Part of the ACO Arch Dotfiles Ecosystem**: Built for **Arch Linux** as part of [`aco-arch-dotfiles`](https://aco-arch-dotfiles.readthedocs.io/en/latest/), this Kitty configuration provides instant rendering, zero audio bells, and a distraction-free terminal workflow that anyone can install on Arch Linux or adapt to **any Linux distribution or macOS**.
@@ -16,7 +16,7 @@ A clean, GPU-accelerated **Kitty** terminal configuration styled in the official
 
 ## Highlights
 
-- 🎨 **Catppuccin Mocha Palette**: Complete 16-color pastel palette (`#1e1e2e` base, `#cdd6f4` text, `#89b4fa` pastel blue, `#f5e0dc` rosewater cursor).
+- 🎨 **aco-theme**: 16 terminal colours, selection and cursor follow `aco-theme mode|accent|transparency` and reload live.
 - 🪟 **0.90 Opacity**: `background_opacity 0.90` and `dynamic_background_opacity yes` for transparent compositing on Wayland/X11.
 - 🔖 **Powerline Tabs**: Beautiful `powerline` styled tabs with active tab highlighting in Pastel Blue.
 - ⚡ **Instant Response**: `enable_audio_bell no`, `confirm_os_window_close 0`, and starts directly into `/usr/bin/zsh`.
@@ -71,6 +71,6 @@ This repository is independent, not embedded in a parent subtree. See
 
 - **[ACO Arch Dotfiles Hub (`aco-arch-dotfiles`)](https://aco-arch-dotfiles.readthedocs.io/en/latest/)**: Central repository uniting the Arch Linux + Hyprland desktop, window manager, and shell environments.
 - **[ghostty-config](https://aco-ghostty.readthedocs.io/en/latest/)**: Alternative GPU terminal sharing identical opacity and styling.
-- **[nvim-config](https://aco-nvim.readthedocs.io/en/latest/)**: Reproducible, offline-capable Neovim IDE with matching Catppuccin themes.
+- **[nvim-config](https://aco-nvim.readthedocs.io/en/latest/)**: Reproducible, offline-capable Neovim IDE.
 - **[tmux-config](https://aco-tmux.readthedocs.io/en/latest/)**: Portable terminal multiplexer configured for seamless terminal integration.
 - **[vim-config](https://aco-vim.readthedocs.io/en/latest/)**: Zero-plugin standalone Vim configuration.

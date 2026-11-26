@@ -70,9 +70,9 @@ kitty
 ```
 
 Verify visual characteristics:
-1. Terminal background renders with `0.90` opacity and Catppuccin Mocha slate tone (`#1e1e2e`).
+1. Terminal background uses the aco-theme background and terminal opacity (`aco-theme get bg`).
 2. An unblinking Rosewater block cursor appears.
-3. Opening multiple tabs (<kbd>Ctrl+Shift+T</kbd>) renders the Catppuccin Powerline tab bar.
+3. Opening multiple tabs (<kbd>Ctrl+Shift+T</kbd>) shows the tab bar at the top.
 
 ---
 
