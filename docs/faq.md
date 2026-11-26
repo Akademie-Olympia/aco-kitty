@@ -98,7 +98,7 @@ Kitty opens your full scrollback buffer in your configured pager (or Neovim), al
 
 ## Kitty vs. Ghostty: When to use which?
 
-Both Kitty and Ghostty are configured with identical Catppuccin Mocha aesthetics and `0.90` opacity in this dotfiles ecosystem:
+Both Kitty and Ghostty are configured with the same aco-theme colours, font and opacity in this dotfiles ecosystem:
 - **Kitty**: Highly mature, supports rich kitten scripts, interactive remote control, extensive graphics protocol (`kitty icat`), and widespread package repository availability.
 - **Ghostty**: Ultra-modern Zig codebase, built-in native macOS and GTK4 interfaces, native tab rendering, and fast startup times.
 
